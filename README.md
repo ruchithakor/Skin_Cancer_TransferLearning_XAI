@@ -18,10 +18,11 @@ These notebooks are transformed into .py(python files) and all are available in 
 
 #### Load data. EDA and pre-processing
 
-1. load_data.py
-2. load_image.py
-3. eda.py
-4. pre_processing.py
+1. load_data.py: This file sets paths to the location where data is located and fetch paths for each iamge and respective labels in train and test dataframes for ease of use.
+                 No need to run this file seperately, each model execution file will directly call the function to load data.
+3. load_image.py
+4. eda.py
+5. pre_processing.py
 
 #### Training-testing models and implementing XAI methods
 
