@@ -4,7 +4,8 @@ Ruchi Parmar - 501034872
 
 This file performs pre-processing on the data - 
 - split training into train-validation split
-- add custom augmengtation layer(can be replaced with ImageDataGenerator) - here data is preety much balanced already so no need to do higher augmentation, only randomflip & randomzoom is performed.
+- add custom augmengtation layer(can be replaced with ImageDataGenerator) - here data is preety much balanced already so no need 
+to do higher augmentation, only randomflip & randomzoom is performed.
 - prepare tensor dataset and batches using tensorfloe.data.Dataset to fit in the training data
 """
 
