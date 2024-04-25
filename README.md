@@ -20,7 +20,7 @@ These notebooks are transformed into .py(python files) and all are available in 
 
 1. [load_data.py](load_data.py): This file sets paths to the location where data is located and fetch paths for each iamge and respective labels in train and test dataframes for ease of use. No need to run this file seperately, each model execution file will directly call the function to load data.
 3. [load_image.py](load_image.py): This file contains function to loas/view image from given image_path. This fucnction is used in multiple places to visualize images, create data tensors etc.
-4. [eda.py](eda.py): Run this file to see Exploratory Data Analysis on the dataset. It will perform tasks to check class balance and visualise sample images from training data. These results are stored in result folder - [class_balance.pdf](results/class_balance.pdf), [sample_images.pdf](results/sample_images.pdf)
+4. [eda.py](eda.py): Run this file to see Exploratory Data Analysis on the dataset. It will perform tasks to check class balance and visualise sample images from training data. These results are stored in result folder - "[class_balance.pdf](results/class_balance.pdf)", "[sample_images.pdf](results/sample_images.pdf)"
 5. [pre_processing.py](pre_processing.py): This file pre-process the data (split training data into train and validation sets, prepare tensors to fit in models, preapre batches) and returns train_dataset, val_dataset and test_dataset. There is no need to run this file seperately. Each model execution file will use this function to get processed datasets. 
 
 #### Training-testing models and implementing XAI methods
