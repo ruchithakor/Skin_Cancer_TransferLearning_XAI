@@ -8,8 +8,14 @@ For this project, I have used Kaggle version of skin cancer classification data 
 
 ### Implementation
 
+Prerequisites -  tensorglow(version between 2.13.0 - 2.16.0), Keras, tensorflow-hub, tensorflow_addons, vit-keras, tf-keras-vis, lime, scikit-plot, matplotlib, seanborn numpy, pandas.
+
+Recommended to execute on P-100 GPUs.
+
+All the implementation is originally done in jupyter notebooks. There already executed notebooks with outputs are available in "jupyter_notebooks" folder.
 
 #### Load data. EDA and pre-processing
+
 
 
 #### Training-testing models and implementing XAI methods
