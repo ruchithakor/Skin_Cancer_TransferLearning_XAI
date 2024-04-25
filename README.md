@@ -8,13 +8,11 @@ For this project, I have used Kaggle version of skin cancer classification data 
 
 ### Implementation
 
-Prerequisites -  tensorflow(version between 2.13.0 - 2.16.0), Keras, tensorflow-hub, tensorflow_addons, vit-keras, tf-keras-vis, lime, scikit-plot, matplotlib, seanborn numpy, pandas.
+* Prerequisites -  tensorflow(version between 2.13.0 - 2.16.0), Keras, tensorflow-hub, tensorflow_addons, vit-keras, tf-keras-vis, lime, scikit-plot, matplotlib, seanborn numpy, pandas.
+* Recommended to execute on P-100 GPUs.
 
-Recommended to execute on P-100 GPUs.
-
-All the implementation is originally done in jupyter notebooks. There already executed notebooks with outputs are available in "jupyter_notebooks" folder.
-
-These notebooks are transformed into .py(python files) and all are available in main repository. File structures and execution details are provided below:
+* All the implementation is originally done in jupyter notebooks. There already executed notebooks with outputs are available in "jupyter_notebooks" folder.
+* These notebooks are transformed into .py(python files) and all are available in main repository. File structures and execution details are provided below:
 
 #### Load data. EDA and pre-processing
 
