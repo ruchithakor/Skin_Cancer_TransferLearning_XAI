@@ -33,3 +33,8 @@ These notebooks are transformed into .py(python files) and all are available in 
 6. [model_vit.py](model_vit.py): Run this file to train Vision Transformer model with Transfer Learning on training data, evaluate with testing data. Further XAI methods- Attention mapping and LIME is implemented on sampled data. There is no need ot pass any arguments. results are stored in results folder - "[Vit_Cm.pdf](results/Vit_Cm.pdf)", "[ViT_ROC.pdf](results/ViT_ROC.pdf)", "[ViT_LIME.pdf](results/ViT_LIME.pdf)", "[ViT_Attentions_0.pdf](results/ViT_Attentions_0.pdf)", "[ViT_Attentions_5.pdf](results/ViT_Attentions_5.pdf)", "[ViT_Attentions_final.pdf](results/ViT_Attentions_final.pdf)"
 
 #### Data similarit check is performed in "[data_similarity.py](data_similarity.py)" file. It store results of PCA visualisation and Image clustering in results folder - "[PCA_data.pdf](results/PCA_data.pdf)", "[Image_clustering_data.pdf](results/Image_clustering_data.pdf)"
+
+#### Reports
+
+Final report is located in reports folder - [DS8013_project_report_parmar.pdf](reports/DS8013_project_report_parmar.pdf)
+Initial proposal - [DS8013_project_proposal_Parmar.pdf](reports/DS8013_project_proposal_Parmar.pdf) (Scope of the project is expaned to add implementation of Explainable AI).
