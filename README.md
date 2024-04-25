@@ -36,5 +36,5 @@ These notebooks are transformed into .py(python files) and all are available in 
 
 #### Reports
 
-Final report is located in reports folder - [DS8013_project_report_parmar.pdf](reports/DS8013_project_report_parmar.pdf)
-Initial proposal - [DS8013_project_proposal_Parmar.pdf](reports/DS8013_project_proposal_Parmar.pdf) (Scope of the project is expaned to add implementation of Explainable AI).
+* Final report is located in reports folder - [DS8013_project_report_parmar.pdf](reports/DS8013_project_report_parmar.pdf)
+* Initial proposal - [DS8013_project_proposal_Parmar.pdf](reports/DS8013_project_proposal_Parmar.pdf) (Scope of the project is expaned to add implementation of Explainable AI).
