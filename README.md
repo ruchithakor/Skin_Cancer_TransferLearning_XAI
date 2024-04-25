@@ -33,7 +33,7 @@ For this project, I have used Kaggle version of skin cancer classification data 
 
 #### Results
 
-Results folder contains all the results of EDA, Evaluation results for all models, XAI results and Data similarity check.
+[Results](results) folder contains all the results of EDA, Evaluation results for all models, XAI results and Data similarity check.
 
 #### Reports
 
