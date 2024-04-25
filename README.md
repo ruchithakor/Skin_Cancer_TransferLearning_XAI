@@ -8,7 +8,7 @@ For this project, I have used Kaggle version of skin cancer classification data 
 
 ### Implementation
 
-Prerequisites -  tensorglow(version between 2.13.0 - 2.16.0), Keras, tensorflow-hub, tensorflow_addons, vit-keras, tf-keras-vis, lime, scikit-plot, matplotlib, seanborn numpy, pandas.
+Prerequisites -  tensorflow(version between 2.13.0 - 2.16.0), Keras, tensorflow-hub, tensorflow_addons, vit-keras, tf-keras-vis, lime, scikit-plot, matplotlib, seanborn numpy, pandas.
 
 Recommended to execute on P-100 GPUs.
 
@@ -25,7 +25,7 @@ These notebooks are transformed into .py(python files) and all are available in 
 
 #### Training-testing models and implementing XAI methods
 
-1. model_cnn.py
+1. model_cnn.py: Execute this file to train baseline Vanilla CNN model on training data, evaluate on testing data and implement XAI methods - GRAD-CAM and LIME. There is no need to pass any arguments. After execution all the results will be stored in - [CNN_CM.pdf](results/CNN_CM.pdf), [CNN_ROC.pdf](results/CNN_ROC.pdf), [CNN_GRAD.pdf](results/CNN_GRAD.pdf), [CNN_LIME.pdf](results/CNN_LIME.pdf)
 2. model_efficientnet_b0.py
 3. model_efficientnet_v2_b0.py
 4. model_resnet50.py
