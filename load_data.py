@@ -2,7 +2,7 @@
 DS 8013 - Deep Learning - Final Project
 Ruchi Parmar - 501034872
 
-This file loads set the path for folders containg traina nd test datasets(images) and return dataframes with path to image and labels.
+This file sets the path for folders containg traina nd test datasets(images) and return dataframes with path to image and labels.
 """
 
 # Import required packages
