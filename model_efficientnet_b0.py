@@ -2,7 +2,7 @@
 DS 8013 - Deep Learning - Final Project
 Ruchi Parmar - 501034872
 
-This code builds and train Transfer Learning-enhanced version of EfficientNet model from TensorFlow Hub, check validation and test accuracy and other performance parameters
+This code builds and train EfficientNet model from TensorFlow Hub, check validation and test accuracy and other performance parameters
 """
 # Import required packages
 
