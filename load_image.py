@@ -2,7 +2,7 @@
 DS 8013 - Deep Learning - Final Project
 Ruchi Parmar - 501034872
 
-This file contains finction to laod image using path
+This file contains function to laod image using path
 """
 # import required packages
 import tensorflow as tf
