@@ -25,9 +25,9 @@ These notebooks are transformed into .py(python files) and all are available in 
 
 #### Training-testing models and implementing XAI methods
 
-1. [model_cnn.py](model_cnn.py): Execute this file to train baseline Vanilla CNN model on training data, evaluate on testing data and implement XAI methods - GRAD-CAM and LIME. There is no need to pass any arguments. After execution all the results will be stored in results folder - [CNN_CM.pdf](results/CNN_CM.pdf), [CNN_ROC.pdf](results/CNN_ROC.pdf), [CNN_GRAD.pdf](results/CNN_GRAD.pdf), [CNN_LIME.pdf](results/CNN_LIME.pdf)
-2. [model_efficientnet_b0.py](model_efficientnet_b0.py): Run this file to train EfficientNet_B0 model on training data and evaluate with testing data. There is no need to pass any arguments. After execution all the results will be stored in results folder - [EfficientNet_CM.pdf](results/EfficientNet_CM.pdf), [EfficientNet_ROC.pdf](results/EfficientNet_ROC.pdf)
-3. model_efficientnet_v2_b0.py
+1. [model_cnn.py](model_cnn.py): Execute this file to train baseline Vanilla CNN model on training data, evaluate on testing data and implement XAI methods - GRAD-CAM and LIME. There is no need to pass any arguments. After execution all the results will be stored in results folder - "[CNN_CM.pdf](results/CNN_CM.pdf)", "[CNN_ROC.pdf](results/CNN_ROC.pdf)", "[CNN_GRAD.pdf](results/CNN_GRAD.pdf)", "[CNN_LIME.pdf](results/CNN_LIME.pdf)"
+2. [model_efficientnet_b0.py](model_efficientnet_b0.py): Run this file to train EfficientNet_B0 model on training data and evaluate with testing data. There is no need to pass any arguments. After execution all the results will be stored in results folder - "[EfficientNet_CM.pdf](results/EfficientNet_CM.pdf)", "[EfficientNet_ROC.pdf](results/EfficientNet_ROC.pdf)"
+3. [model_efficientnet_v2_b0.py](model_efficientnet_v2_b0.py): Run this file to train EfficientNet_v2_B0 with transfer Learning model on training data and evaluate with testing data. There is no need to pass any arguments. After execution all the results will be stored in results folder - "[EfficientNet_v2_CM.pdf](results/EfficientNet_v2_CM.pdf)", "[EfficientNet_v2_ROC.pdf](results/EfficientNet_v2_ROC.pdf)"
 4. model_resnet50.py
 5. model_vgg.py
 6. model_vit.py
