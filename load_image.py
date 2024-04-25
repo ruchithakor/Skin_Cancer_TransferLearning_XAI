@@ -9,7 +9,7 @@ import tensorflow as tf
 
 def load_image(image_path):
     """define function to view images
-    Thus function will be used further also while preprocessing and training
+    This function will be used further also while preprocessing and training
 
     Args:
         image_path (string): path to the image location
